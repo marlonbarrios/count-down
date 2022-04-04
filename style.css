@@ -160,7 +160,7 @@ li span {
 @media screen and (max-width: 600px) {
   video {
     object-fit: cover;
-    /* object-position: 100%; */
+    object-position: 100%;
     margin-top: -1px;
   }
 
