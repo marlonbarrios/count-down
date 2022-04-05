@@ -169,12 +169,13 @@ a {
   color: rgb(255, 255, 255);
 }
 
+
 /* Media Query: Large Smartphone (Vertical) */
 @media screen and (max-width: 600px) {
   video {
     object-fit: cover;
+    object-position: 50%;
     margin-top: -1px;
-    transform-origin: 0%;
   }
 
   .video-background {
