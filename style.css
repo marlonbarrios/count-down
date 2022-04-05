@@ -173,8 +173,8 @@ a {
 @media screen and (max-width: 600px) {
   video {
     object-fit: cover;
-
     margin-top: -1px;
+    transform-origin: 0%;
   }
 
   .video-background {
