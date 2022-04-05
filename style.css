@@ -94,7 +94,7 @@ button {
   margin-top: 15px;
   border: none;
   text-transform: uppercase;
-  background: #888888;
+  background: #444444;
   color: white;
   cursor: pointer;
   outline: none;
@@ -160,7 +160,7 @@ li span {
 @media screen and (max-width: 600px) {
   video {
     object-fit: cover;
-    object-position: 100%;
+
     margin-top: -1px;
   }
 
